@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aminggoodboy.gitee.io/posts/65362757.html</loc>
+    
+    <lastmod>2022-01-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/posts/d5e767b9.html</loc>
+    
+    <lastmod>2022-01-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/posts/632ffbff.html</loc>
+    
+    <lastmod>2022-01-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/posts/c364615c.html</loc>
+    
+    <lastmod>2022-01-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aminggoodboy.gitee.io/posts/f5d989b2.html</loc>
     
-    <lastmod>2022-01-10</lastmod>
+    <lastmod>2022-01-12</lastmod>
     
   </url>
   
@@ -116,22 +144,50 @@
 
   <url>
     <loc>https://aminggoodboy.gitee.io/</loc>
-    <lastmod>2022-01-10</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://aminggoodboy.gitee.io/tags/%E6%96%87%E5%BA%93/</loc>
-    <lastmod>2022-01-10</lastmod>
+    <loc>https://aminggoodboy.gitee.io/tags/%E5%90%AC%E6%AD%8C%E4%B8%8B%E6%AD%8C/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/tags/%E8%BF%BD%E5%89%A7/</loc>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://aminggoodboy.gitee.io/tags/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86/</loc>
-    <lastmod>2022-01-10</lastmod>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/tags/%E9%98%85%E8%AF%BB%E7%9C%8B%E4%B9%A6/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/tags/%E6%96%87%E5%BA%93/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/tags/%E7%9C%8B%E7%9B%B4%E6%92%AD/</loc>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -139,22 +195,57 @@
 
   
   <url>
+    <loc>https://aminggoodboy.gitee.io/categories/%E5%BF%85%E5%A4%87/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/categories/%E5%BF%85%E5%A4%87/%E9%98%85%E8%AF%BB%E8%BF%BD%E4%B9%A6/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/categories/%E5%BF%85%E5%A4%87/%E5%90%AC%E6%AD%8C%E4%B8%8B%E6%AD%8C/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aminggoodboy.gitee.io/categories/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2022-01-10</lastmod>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/categories/%E5%BF%85%E5%A4%87/%E5%BD%B1%E8%A7%86%E8%BF%BD%E5%89%A7/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aminggoodboy.gitee.io/categories/%E5%BF%85%E5%A4%87/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90%E7%82%B9%E6%92%AD%E7%9B%B4%E6%92%AD/</loc>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://aminggoodboy.gitee.io/categories/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7/%E6%96%87%E5%BA%93%E8%A7%A3%E6%9E%90%E4%B8%8B%E8%BD%BD/</loc>
-    <lastmod>2022-01-10</lastmod>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://aminggoodboy.gitee.io/categories/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7/%E6%99%BA%E8%83%BD%E7%94%B5%E8%A7%86%E5%BF%85%E5%A4%87%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2022-01-10</lastmod>
+    <loc>https://aminggoodboy.gitee.io/categories/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7/%E7%9C%8B%E7%9B%B4%E6%92%AD%E7%9B%92%E5%AD%90/</loc>
+    <lastmod>2022-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
