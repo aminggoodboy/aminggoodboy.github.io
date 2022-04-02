@@ -6,7 +6,7 @@
   <link href="https://aminggoodboy.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://aminggoodboy.gitee.io/"/>
-  <updated>2022-03-26T13:19:11.008Z</updated>
+  <updated>2022-03-30T15:41:06.113Z</updated>
   <id>https://aminggoodboy.gitee.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>任意安卓手机多屏协同</title>
+    <link href="https://aminggoodboy.gitee.io/posts/1a019218.html"/>
+    <id>https://aminggoodboy.gitee.io/posts/1a019218.html</id>
+    <published>2022-03-30T15:41:03.000Z</published>
+    <updated>2022-03-30T15:41:06.113Z</updated>
+    
+    <content type="html"><![CDATA[<p>该项目测试不支持华为手机</p><p>华为还是用原本的多屏协同吧</p><p>原本项目是给云控开发的</p><p>开源项目，完全免费</p><p>支持WiFi和USB两种模式操控手机</p><p>项目地址</p><p><a href="https://github.com/barry-ran/QtScrcpy">https://github.com/barry-ran/QtScrcpy</a></p><p>项目中文介绍</p><p><a href="https://github.com/barry-ran/QtScrcpy/blob/dev/README_zh.md">https://github.com/barry-ran/QtScrcpy/blob/dev/README_zh.md</a></p><p>国内下载地址</p><p><a href="https://gitee.com/Barryda/QtScrcpy/releases">https://gitee.com/Barryda/QtScrcpy/releases</a></p><p>主要功能支持</p><ul><li><p>实时显示Android设备屏幕</p></li><li><p>实时键鼠控制Android设备</p></li><li><p>屏幕录制</p></li><li><p>截图为png</p></li><li><p>无线连接</p></li><li><p>最多支持16台设备连接（PC性能允许的情况下可以增加，需要自己编译）</p></li><li><p>全屏显示</p></li><li><p>窗口置顶</p></li><li><p>安装apk：拖拽apk到视频窗口即可安装</p></li><li><p>传输文件：拖拽文件到视频窗口即可发送文件到Android设备</p></li><li><p>后台录制：只录制，不显示界面</p></li><li><p>复制粘贴</p><p>在计算机和设备之间双向同步剪贴板：</p><ul><li><code>Ctrl</code> + <code>c</code>将设备剪贴板复制到计算机剪贴板；</li><li><code>Ctrl</code> + <code>Shift</code> + <code>v</code>将计算机剪贴板复制到设备剪贴板；</li><li><code>Ctrl</code> +<code>v</code> 将计算机剪贴板作为一系列文本事件发送到设备（不支持非ASCII字符）。</li></ul></li><li><p>群控</p></li></ul><h3 id="无线连接步骤（保证手机和电脑在同一个局域网）："><a href="#无线连接步骤（保证手机和电脑在同一个局域网）：" class="headerlink" title="无线连接步骤（保证手机和电脑在同一个局域网）："></a>无线连接步骤（保证手机和电脑在同一个局域网）：</h3><ol><li>安卓手机端在开发者选项中打开usb调试</li><li>通过usb连接安卓手机到电脑</li><li>点击刷新设备，会看到有设备号更新出来</li><li>点击获取设备IP</li><li>点击启动adbd</li><li>无线连接</li><li>再次点击刷新设备，发现多出了一个IP地址开头的设备，选择这个设备</li><li>启动服务</li></ol><p>备注：启动adbd以后不用再连着usb线了，以后连接断开都不再需要，除非安卓adbd停了需要重新启动</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;该项目测试不支持华为手机&lt;/p&gt;
+&lt;p&gt;华为还是用原本的多屏协同吧&lt;/p&gt;
+&lt;p&gt;原本项目是给云控开发的&lt;/p&gt;
+&lt;p&gt;开源项目，完全免费&lt;/p&gt;
+&lt;p&gt;支持WiFi和USB两种模式操控手机&lt;/p&gt;
+&lt;p&gt;项目地址&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://githu</summary>
+      
+    
+    
+    
+    <category term="黑科技" scheme="https://aminggoodboy.gitee.io/categories/%E9%BB%91%E7%A7%91%E6%8A%80/"/>
+    
+    <category term="任意安卓多屏协同" scheme="https://aminggoodboy.gitee.io/categories/%E9%BB%91%E7%A7%91%E6%8A%80/%E4%BB%BB%E6%84%8F%E5%AE%89%E5%8D%93%E5%A4%9A%E5%B1%8F%E5%8D%8F%E5%90%8C/"/>
+    
+    
+    <category term="电脑控制手机" scheme="https://aminggoodboy.gitee.io/tags/%E7%94%B5%E8%84%91%E6%8E%A7%E5%88%B6%E6%89%8B%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>抖音海外绿化版</title>
@@ -600,37 +632,6 @@
     
     
     <category term="追剧" scheme="https://aminggoodboy.gitee.io/tags/%E8%BF%BD%E5%89%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一个顶五个，直播聚合！</title>
-    <link href="https://aminggoodboy.gitee.io/posts/65362757.html"/>
-    <id>https://aminggoodboy.gitee.io/posts/65362757.html</id>
-    <published>2022-01-11T15:27:37.000Z</published>
-    <updated>2022-01-29T13:38:35.448Z</updated>
-    
-    <content type="html"><![CDATA[<p>很多朋友可能和我一样，爱看直播</p><p>有自己喜欢的主播，会经常看</p><p>每年的英雄联盟S赛肯定是不会缺席</p><p>虽然比赛基本每个平台都有播，但是主播不是</p><p>这就导致手机上往往要装两三个APP来看直播</p><p><strong>JustLive 聚合直播</strong></p><hr><p>据作者说是大学的毕业设计，人和人的差距有时候就是这么大。</p><p>支持斗鱼、虎牙、bilibili、CC、企业电竞，直播聚合播放。</p><p>支持网页使用，和安卓系统使用，iOS可能在开发中。</p><p>支持弹幕功能，支持原画，界面简约无广告，良心好用！</p><p><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/YYyO5YrYHteLGmvDIPQL4ZOALPPzxJ1meBnyUHRnVrAEIhxiaDSrmxh3icxdGT7pLOfhvWQDAkfW9nKcwic0Exn9A/640?wx_fmt=png" alt="img"></p><p><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/YYyO5YrYHteLGmvDIPQL4ZOALPPzxJ1mDRiabrs3dafiaLiayh0UabVyicVBfFCrsOPfMgz9rIoG0rn0GR5R613yicw/640?wx_fmt=png" alt="img"></p><p>网页端也是非常纯净的，平常看个直播礼物刷的，影响观感体验，用这个客户端就没有这种烦恼。</p><p><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/YYyO5YrYHteLGmvDIPQL4ZOALPPzxJ1mniclicruFhSSF6xb6wPlsicybickHT7m11yv1GIHMEEWv8771A2AeCU5Nw/640?wx_fmt=png" alt="img"></p><p><strong>下载链接</strong></p><hr><p>网页观看</p><p><a href="http://live.yj1211.work/index/home/recommend">http://live.yj1211.work/index/home/recommend</a></p><p>安卓客户端</p><p><a href="https://wwe.lanzoui.com/tp/imAX0wg9b8b">https://wwe.lanzoui.com/tp/imAX0wg9b8b</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;很多朋友可能和我一样，爱看直播&lt;/p&gt;
-&lt;p&gt;有自己喜欢的主播，会经常看&lt;/p&gt;
-&lt;p&gt;每年的英雄联盟S赛肯定是不会缺席&lt;/p&gt;
-&lt;p&gt;虽然比赛基本每个平台都有播，但是主播不是&lt;/p&gt;
-&lt;p&gt;这就导致手机上往往要装两三个APP来看直播&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Just</summary>
-      
-    
-    
-    
-    <category term="热门工具" scheme="https://aminggoodboy.gitee.io/categories/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7/"/>
-    
-    <category term="安卓直播聚合" scheme="https://aminggoodboy.gitee.io/categories/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7/%E5%AE%89%E5%8D%93%E7%9B%B4%E6%92%AD%E8%81%9A%E5%90%88/"/>
-    
-    
-    <category term="看直播" scheme="https://aminggoodboy.gitee.io/tags/%E7%9C%8B%E7%9B%B4%E6%92%AD/"/>
     
   </entry>
   

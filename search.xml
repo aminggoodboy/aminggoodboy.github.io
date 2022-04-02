@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>任意安卓手机多屏协同</title>
+      <link href="/posts/1a019218.html"/>
+      <url>/posts/1a019218.html</url>
+      
+        <content type="html"><![CDATA[<p>该项目测试不支持华为手机</p><p>华为还是用原本的多屏协同吧</p><p>原本项目是给云控开发的</p><p>开源项目，完全免费</p><p>支持WiFi和USB两种模式操控手机</p><p>项目地址</p><p><a href="https://github.com/barry-ran/QtScrcpy">https://github.com/barry-ran/QtScrcpy</a></p><p>项目中文介绍</p><p><a href="https://github.com/barry-ran/QtScrcpy/blob/dev/README_zh.md">https://github.com/barry-ran/QtScrcpy/blob/dev/README_zh.md</a></p><p>国内下载地址</p><p><a href="https://gitee.com/Barryda/QtScrcpy/releases">https://gitee.com/Barryda/QtScrcpy/releases</a></p><p>主要功能支持</p><ul><li><p>实时显示Android设备屏幕</p></li><li><p>实时键鼠控制Android设备</p></li><li><p>屏幕录制</p></li><li><p>截图为png</p></li><li><p>无线连接</p></li><li><p>最多支持16台设备连接（PC性能允许的情况下可以增加，需要自己编译）</p></li><li><p>全屏显示</p></li><li><p>窗口置顶</p></li><li><p>安装apk：拖拽apk到视频窗口即可安装</p></li><li><p>传输文件：拖拽文件到视频窗口即可发送文件到Android设备</p></li><li><p>后台录制：只录制，不显示界面</p></li><li><p>复制粘贴</p><p>在计算机和设备之间双向同步剪贴板：</p><ul><li><code>Ctrl</code> + <code>c</code>将设备剪贴板复制到计算机剪贴板；</li><li><code>Ctrl</code> + <code>Shift</code> + <code>v</code>将计算机剪贴板复制到设备剪贴板；</li><li><code>Ctrl</code> +<code>v</code> 将计算机剪贴板作为一系列文本事件发送到设备（不支持非ASCII字符）。</li></ul></li><li><p>群控</p></li></ul><h3 id="无线连接步骤（保证手机和电脑在同一个局域网）："><a href="#无线连接步骤（保证手机和电脑在同一个局域网）：" class="headerlink" title="无线连接步骤（保证手机和电脑在同一个局域网）："></a>无线连接步骤（保证手机和电脑在同一个局域网）：</h3><ol><li>安卓手机端在开发者选项中打开usb调试</li><li>通过usb连接安卓手机到电脑</li><li>点击刷新设备，会看到有设备号更新出来</li><li>点击获取设备IP</li><li>点击启动adbd</li><li>无线连接</li><li>再次点击刷新设备，发现多出了一个IP地址开头的设备，选择这个设备</li><li>启动服务</li></ol><p>备注：启动adbd以后不用再连着usb线了，以后连接断开都不再需要，除非安卓adbd停了需要重新启动</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 黑科技 </category>
+          
+          <category> 任意安卓多屏协同 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电脑控制手机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>抖音海外绿化版</title>
       <link href="/posts/99d6c71d.html"/>
       <url>/posts/99d6c71d.html</url>
